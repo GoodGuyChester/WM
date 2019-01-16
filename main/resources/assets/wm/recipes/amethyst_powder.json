@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "wm:amethyst"
+    },
+ 
+    {
+      "item": "wm:chunk_crusher"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "wm:amethyst_powder",
+        "count": 1
+    }
+}

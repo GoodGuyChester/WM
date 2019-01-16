@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " S ",
+        " S ",
+        " W "
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "wm:silver_ingot"
+        },  
+     
+        "W":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "wm:silver_sword",
+        "count": 1
+    }
+}

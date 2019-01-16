@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "minecraft:diamond"
+    },
+ 
+    {
+      "item": "wm:chunk_crusher"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "wm:diamond_powder",
+        "count": 1
+    }
+}

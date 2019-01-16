@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "   ",
+        "   ",
+        "FFF"
+    ],
+   
+    "key":
+    {
+        "I":
+        {
+            "item": "wm:fiber"
+        }
+    },
+   
+    "result":
+    {
+        "item": "wm:thread",
+        "count": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SSS",
+        "LLL",
+        "SSS"
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:string"
+        },
+    
+        "L":
+        {
+            "item": "minecraft:leather"
+        }
+    },
+   
+    "result":
+    {
+        "item": "wm:fiber",
+        "count": 1
+    }
+}

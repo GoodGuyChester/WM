@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "wm:silver_chunk"
+    },
+ 
+    {
+      "item": "wm:chunk_crusher"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "wm:silver_powder",
+        "count": 1
+    }
+}

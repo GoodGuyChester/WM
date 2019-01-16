@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "wm:amber"
+    },
+ 
+    {
+      "item": "wm:chunk_crusher"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "wm:amber_powder",
+        "count": 1
+    }
+}

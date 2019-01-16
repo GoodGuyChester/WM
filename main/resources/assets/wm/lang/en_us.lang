@@ -1,0 +1,31 @@
+//Items
+item.silver_sword.name=Silver Sword
+item.silver_powder.name=Silver Powder
+item.silver_ingot.name=Silver Ingot
+Item.chunk_crusher.name=Chunk Crusher
+Item.silver_axe.name=Silver Axe
+Item.silver_hoe.name=Silver Hoe
+Item.silver_pickaxe.name=Silver Pickaxe
+Item.silver_shovel.name=Silver Shovel
+Item.silver_chunk.name=Silver Chunk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Blocks
+tile.silver_block.name=Silver block

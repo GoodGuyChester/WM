@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " HR",
+        "I I",
+        "III"
+    ],
+   
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_block"
+        },
+   
+        "R":
+        {
+            "item": "wm:rope"
+        },
+   
+        "H":
+        {
+            "item": "wm:forge_hammer"
+        }
+    },
+   
+    "result":
+    {
+        "item": "wm:chunk_crusher",
+        "count": 1
+    }
+}

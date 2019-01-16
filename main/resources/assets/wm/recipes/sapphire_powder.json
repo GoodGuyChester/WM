@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "wm:sapphire"
+    },
+ 
+    {
+      "item": "wm:chunk_crusher"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "wm:sapphire_powder",
+        "count": 1
+    }
+}
